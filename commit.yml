@@ -2,13 +2,37 @@
 branches: {
   }
 fileChange:
-  /.gitignore:
-    newFile: !uuid 'a1c2a238a965f004ff76978ac1086aa6fe95caea'
+  /public:
+    newFile: !uuid '2fdea15947045a678c394c14cfe733c6611fbe20'
     oldFile: null
-  /LICENSE:
-    newFile: !uuid '94a9ed024d3859793618152ea559a168bbcbb5e2'
+  /public/060b2710bdbbe3dfe48b.svg:
+    newFile: !uuid '94fb5490a2ed10b2c69a4a567a4fd2e4f706d841'
     oldFile: null
-gitCommitId: !uuid '3b8b577416a226a68962378997f13fa0b0dbd779'
+  /public/4692b9ec53fd5972caa2.ttf:
+    newFile: !uuid '1413fc609ab6f21774de0cb7e01360095584f65b'
+    oldFile: null
+  /public/5be1347c682810f199c7.eot:
+    newFile: !uuid 'b93a4953fff68df523aa7656497ee339d6026d64'
+    oldFile: null
+  /public/82b1212e45a2bc35dd73.woff:
+    newFile: !uuid '9e612858f802245ddcbf59788a0db942224bab35'
+    oldFile: null
+  /public/be810be3a3e14c682a25.woff2:
+    newFile: !uuid '64539b54c3751a6d9adb44c8e3a45ba5a73b77f0'
+    oldFile: null
+  /public/bundle.js:
+    newFile: !uuid 'ede6a721047fd165db2abedd16f909b14de47eb1'
+    oldFile: null
+  /public/bundle.js.LICENSE.txt:
+    newFile: !uuid '9160720290a78051f3a0fd7235989c52359837be'
+    oldFile: null
+  /public/favicon.ico:
+    newFile: !uuid '4f5f65407dcf9bd3f149ae3d10ed5c178ce160fe'
+    oldFile: null
+  /public/fly.html:
+    newFile: !uuid '153dc35dd65490ff67fc826513400172f4753721'
+    oldFile: null
+gitCommitId: !uuid '1072313f9667dcc54c47f5816e41119e2de1c55d'
 renames: {
   }
-revisionId: 1
+revisionId: 2
